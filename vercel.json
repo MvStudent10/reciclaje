@@ -1,14 +1,5 @@
 {
   "version": 2,
-  "builds": [
-    { "src": "reciclaje_info.html", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/", "dest": "/reciclaje_info.html" }
-  ]
-}
-{
-  "version": 2,
   "routes": [
     { "src": "/", "dest": "/reciclaje_info.html" }
   ]
